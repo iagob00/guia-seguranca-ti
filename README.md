@@ -13,9 +13,9 @@ Este repositório contém materiais educativos desenvolvidos para promover a con
 - `video3-eng-social.mp4` → Introdução de Engenharia Social.
 
 **/exemplos-praticos** – Casos reais e simulações de ataques.
-- `email-phishing-exemplo.png` → Modelo de um e-mail fraudulento.
-- `pendrive-abandonado.md` → O que fazer ao encontrar um dispositivo desconhecido.
-- `vpn-wifi-publica.md` → Passos para usar redes externas com segurança.
+- `email-phishing-exemplo.png` → Modelo de um e-mail fraudulento. [TODO]
+- `pendrive-abandonado.md` → O que fazer ao encontrar um dispositivo desconhecido. [TODO]
+- `vpn-wifi-publica.md` → Passos para usar redes externas com segurança. [TODO]
 
 **/divulgacao** – Materiais para campanha interna.
 - `emails-informativos.md` → Modelos de e-mails para conscientização.
